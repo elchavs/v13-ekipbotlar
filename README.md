@@ -1,5 +1,6 @@
 50 Starda Anında Kapınızda Diyim Anla Hocam :) <3
 
+Yeni Görseller Gelicek Sabırla Bekleyiniz
 
 # Bota dair görseller.
 
