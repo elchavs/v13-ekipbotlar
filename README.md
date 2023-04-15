@@ -9,3 +9,4 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz
 # Bota dair görseller.
 
 ![image](https://media.discordapp.net/attachments/1095415444271272007/1096734941758369894/image.png?width=481&height=174)
+![image](https://media.discordapp.net/attachments/1096527059355967609/1096834530045874306/image.png?width=396&height=231)
