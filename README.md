@@ -3,4 +3,4 @@
 
 # Bota dair görseller.
 
-![image](blob:https://discord.com/9a7abbd7-99d1-429d-a4ca-e6975b8ed365)
+![image](![image](https://user-images.githubusercontent.com/129677295/232206793-21ae5550-05c2-494c-9314-6122c030b19c.png))
