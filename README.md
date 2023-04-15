@@ -1,1 +1,1 @@
-# v13-Supervisor-public
+50 Starda Anında Kapınızda Diyim Anla Hocam :) <3
