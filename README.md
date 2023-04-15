@@ -10,3 +10,4 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz
 
 ![image](https://media.discordapp.net/attachments/1095415444271272007/1096734941758369894/image.png?width=481&height=174)
 ![image](https://media.discordapp.net/attachments/1096527059355967609/1096834530045874306/image.png?width=396&height=231)
+![image](https://media.discordapp.net/attachments/1096527059355967609/1096834753505808485/image.png?width=259&height=207)
