@@ -1,6 +1,6 @@
 50 Starda Anında Kapınızda Diyim Anla Hocam :) <3
 
-Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat daha iyi olucaktır :/
+Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat daha iyi olucaktır :/ seviliyonuz caneler 
 
 # Yapmanız gereken adımlar
 
