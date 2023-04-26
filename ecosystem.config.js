@@ -1,1 +1,1 @@
-ayh zort
+50 STARDA GELİYORSS
