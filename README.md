@@ -9,6 +9,7 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat 
 # Bota dair görseller.
 
 <img  src="https://media.discordapp.net/attachments/1093434536530018406/1101241456842244177/image.png?width=335&height=204">
+<img  src="https://media.discordapp.net/attachments/1101229620419887264/1101247768711921734/image.png?width=402&height=154">
 <img  src="https://media.discordapp.net/attachments/1095415444271272007/1096734941758369894/image.png?width=481&height=174">
 <img  src="https://media.discordapp.net/attachments/1096527059355967609/1096834530045874306/image.png?width=396&height=231">
 <img  src="https://media.discordapp.net/attachments/1096527059355967609/1096834753505808485/image.png?width=259&height=207">
