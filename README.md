@@ -2,16 +2,17 @@
 
 Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat daha iyi olucaktır :/ seviliyonuz caneler 
 
-
-# Yapmanız gereken adımlar
-
-- Config Klasörünü Sorunsuz Şekilde Kendinize Göre Yapmanız Gerekir Aksi Taktirde Hatalar Alırsınız kendine göre degiştirdikten sonra configi cmd kısmına gelip node . yazıyorsunuz bot başlıyor eger hata alırsanız dm üzerinden yazınız.
-
 - [x] **İnvite Sistemi**
 - [x] **Rank Sistemi**
 - [x] **Stat Sistemi**
 - [x] **Kayıt Sistemi**
 - [x] **Log Sistemleri**
+
+# Yapmanız gereken adımlar
+
+- Config Klasörünü Sorunsuz Şekilde Kendinize Göre Yapmanız Gerekir Aksi Taktirde Hatalar Alırsınız kendine göre degiştirdikten sonra configi cmd kısmına gelip node . yazıyorsunuz bot başlıyor eger hata alırsanız dm üzerinden yazınız.
+
+
 # Bota dair görseller.
 
 <img  src="https://media.discordapp.net/attachments/1093434536530018406/1101241456842244177/image.png?width=335&height=204">
