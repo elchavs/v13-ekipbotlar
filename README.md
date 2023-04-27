@@ -5,6 +5,7 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat 
 - [x] **İnvite Sistemi**
 - [x] **Rank Sistemi**
 - [x] **Stat Sistemi**
+- [x] **Kayıt Sistemi**
 - [x] **Log Sistemleri**
 # Yapmanız gereken adımlar
 
