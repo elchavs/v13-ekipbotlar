@@ -17,3 +17,4 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat 
 ![image](https://media.discordapp.net/attachments/1093434536530018406/1097261153412993024/image.png?width=527&height=232)
 ![image](https://media.discordapp.net/attachments/1097137184353558602/1097664471389962270/image.png?width=323&height=242)
 ![image](https://media.discordapp.net/attachments/1097989540347658291/1100844549816987658/image.png?width=256&height=72)
+![image](https://media.discordapp.net/attachments/1095721400603521164/1101221190867103855/image.png?width=362&height=218)
