@@ -2,6 +2,10 @@
 
 Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat daha iyi olucaktır :/ seviliyonuz caneler 
 
+- [x] **İnvite Sistemi**
+- [x] **Rank Sistemi**
+- [x] **Stat Sistemi**
+- [x] **Log Sistemleri**
 # Yapmanız gereken adımlar
 
 - Config Klasörünü Sorunsuz Şekilde Kendinize Göre Yapmanız Gerekir Aksi Taktirde Hatalar Alırsınız kendine göre degiştirdikten sonra configi cmd kısmına gelip node . yazıyorsunuz bot başlıyor eger hata alırsanız dm üzerinden yazınız.
