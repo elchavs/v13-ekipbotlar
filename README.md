@@ -22,6 +22,11 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat 
 <img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1104720587307372544/image.png">
 <img  src="https://media.discordapp.net/attachments/1097989540347658291/1101248438689091694/image.png?width=394&height=217">
 
+# Kayıt Sistem Görselleri
+
+<img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1104724382993104906/image.png">
+
+
 
 
 
