@@ -20,6 +20,7 @@ Yeni Görseller Gelicek Sabırla Bekleyiniz komutlar fotograftaki gibidir fakat 
 <img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1103757413221404792/image.png">
 <img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1104866137335943269/image.png">
 <img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1103758085488660561/image.png">
+<img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1104995135286161428/image.png">
 <img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1104716903487918171/image.png">
 <img  src="https://cdn.discordapp.com/attachments/1101241787655409664/1104720587307372544/image.png">
 <img  src="https://media.discordapp.net/attachments/1097989540347658291/1101248438689091694/image.png?width=394&height=217">
